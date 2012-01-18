@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="786" class="hudson.freemarker_ide.Plugin" localization="plugin" name="%pluginName" project="Freemarker-IDE" provider="%providerName">
+		<library name="freemarker-2.3.6.jar"/>
+		<library name="freemarker-ide.jar"/>
+	</bundle>
+</map>
